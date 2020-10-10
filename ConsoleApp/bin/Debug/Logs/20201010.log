@@ -1,0 +1,272 @@
+
+异常时间：2020-10-10 11:09:32,148 [4] 
+异常级别：INFO  
+异 常 类：Service - 服务开始
+
+异常时间：2020-10-10 11:09:32,282 [4] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.PosterMaterialVipManagerExtSubOrgsJob 开始执行Job->管理驾驶舱海报，部门可见范围同步所选部门的所有子部门入库
+
+异常时间：2020-10-10 11:09:32,282 [9] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 开始执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:09:32,282 [6] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ArticleAdsSubOrgsJob 开始执行Job->管理驾驶舱文章广告，部门可见范围同步所选部门的所有子部门入库
+
+异常时间：2020-10-10 11:09:32,286 [9] 
+异常级别：ERROR 
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob Job异常捕获->演示作业异常处理
+System.DivideByZeroException: 尝试除以零。
+   在 ConsoleApp.Beta.VipManager.ExceptionJob.Execute(IJobExecutionContext context) 位置 D:\Coding\DotNet\Beta.Jobs\ConsoleApp\Beta.VipManager\ExceptionJob.cs:行号 40
+
+异常时间：2020-10-10 11:09:32,291 [9] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 结束执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:09:37,249 [9] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 开始执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:09:37,249 [9] 
+异常级别：ERROR 
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob Job异常捕获->演示作业异常处理
+System.DivideByZeroException: 尝试除以零。
+   在 ConsoleApp.Beta.VipManager.ExceptionJob.Execute(IJobExecutionContext context) 位置 D:\Coding\DotNet\Beta.Jobs\ConsoleApp\Beta.VipManager\ExceptionJob.cs:行号 40
+
+异常时间：2020-10-10 11:09:37,249 [9] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 结束执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:09:42,249 [9] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 开始执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:09:42,249 [9] 
+异常级别：ERROR 
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob Job异常捕获->演示作业异常处理
+System.DivideByZeroException: 尝试除以零。
+   在 ConsoleApp.Beta.VipManager.ExceptionJob.Execute(IJobExecutionContext context) 位置 D:\Coding\DotNet\Beta.Jobs\ConsoleApp\Beta.VipManager\ExceptionJob.cs:行号 40
+
+异常时间：2020-10-10 11:09:42,249 [9] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 结束执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:09:47,249 [9] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 开始执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:09:47,249 [9] 
+异常级别：ERROR 
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob Job异常捕获->演示作业异常处理
+System.DivideByZeroException: 尝试除以零。
+   在 ConsoleApp.Beta.VipManager.ExceptionJob.Execute(IJobExecutionContext context) 位置 D:\Coding\DotNet\Beta.Jobs\ConsoleApp\Beta.VipManager\ExceptionJob.cs:行号 40
+
+异常时间：2020-10-10 11:09:47,250 [9] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 结束执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:09:52,249 [9] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 开始执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:09:52,249 [9] 
+异常级别：ERROR 
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob Job异常捕获->演示作业异常处理
+System.DivideByZeroException: 尝试除以零。
+   在 ConsoleApp.Beta.VipManager.ExceptionJob.Execute(IJobExecutionContext context) 位置 D:\Coding\DotNet\Beta.Jobs\ConsoleApp\Beta.VipManager\ExceptionJob.cs:行号 40
+
+异常时间：2020-10-10 11:09:52,249 [9] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 结束执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:09:57,249 [9] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 开始执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:09:57,249 [9] 
+异常级别：ERROR 
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob Job异常捕获->演示作业异常处理
+System.DivideByZeroException: 尝试除以零。
+   在 ConsoleApp.Beta.VipManager.ExceptionJob.Execute(IJobExecutionContext context) 位置 D:\Coding\DotNet\Beta.Jobs\ConsoleApp\Beta.VipManager\ExceptionJob.cs:行号 40
+
+异常时间：2020-10-10 11:09:57,249 [9] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 结束执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:10:02,249 [9] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 开始执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:10:02,249 [9] 
+异常级别：ERROR 
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob Job异常捕获->演示作业异常处理
+System.DivideByZeroException: 尝试除以零。
+   在 ConsoleApp.Beta.VipManager.ExceptionJob.Execute(IJobExecutionContext context) 位置 D:\Coding\DotNet\Beta.Jobs\ConsoleApp\Beta.VipManager\ExceptionJob.cs:行号 40
+
+异常时间：2020-10-10 11:10:02,250 [9] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 结束执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:10:07,249 [9] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 开始执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:10:07,249 [9] 
+异常级别：ERROR 
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob Job异常捕获->演示作业异常处理
+System.DivideByZeroException: 尝试除以零。
+   在 ConsoleApp.Beta.VipManager.ExceptionJob.Execute(IJobExecutionContext context) 位置 D:\Coding\DotNet\Beta.Jobs\ConsoleApp\Beta.VipManager\ExceptionJob.cs:行号 40
+
+异常时间：2020-10-10 11:10:07,249 [9] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 结束执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:10:12,249 [9] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 开始执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:10:12,249 [9] 
+异常级别：ERROR 
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob Job异常捕获->演示作业异常处理
+System.DivideByZeroException: 尝试除以零。
+   在 ConsoleApp.Beta.VipManager.ExceptionJob.Execute(IJobExecutionContext context) 位置 D:\Coding\DotNet\Beta.Jobs\ConsoleApp\Beta.VipManager\ExceptionJob.cs:行号 40
+
+异常时间：2020-10-10 11:10:12,249 [9] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 结束执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:10:17,249 [9] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 开始执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:10:17,249 [9] 
+异常级别：ERROR 
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob Job异常捕获->演示作业异常处理
+System.DivideByZeroException: 尝试除以零。
+   在 ConsoleApp.Beta.VipManager.ExceptionJob.Execute(IJobExecutionContext context) 位置 D:\Coding\DotNet\Beta.Jobs\ConsoleApp\Beta.VipManager\ExceptionJob.cs:行号 40
+
+异常时间：2020-10-10 11:10:17,249 [9] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 结束执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:10:22,249 [9] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 开始执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:10:22,249 [9] 
+异常级别：ERROR 
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob Job异常捕获->演示作业异常处理
+System.DivideByZeroException: 尝试除以零。
+   在 ConsoleApp.Beta.VipManager.ExceptionJob.Execute(IJobExecutionContext context) 位置 D:\Coding\DotNet\Beta.Jobs\ConsoleApp\Beta.VipManager\ExceptionJob.cs:行号 40
+
+异常时间：2020-10-10 11:10:22,249 [9] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 结束执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:10:27,249 [9] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 开始执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:10:27,249 [9] 
+异常级别：ERROR 
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob Job异常捕获->演示作业异常处理
+System.DivideByZeroException: 尝试除以零。
+   在 ConsoleApp.Beta.VipManager.ExceptionJob.Execute(IJobExecutionContext context) 位置 D:\Coding\DotNet\Beta.Jobs\ConsoleApp\Beta.VipManager\ExceptionJob.cs:行号 40
+
+异常时间：2020-10-10 11:10:27,249 [9] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 结束执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:10:32,249 [10] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 开始执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:10:32,249 [10] 
+异常级别：ERROR 
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob Job异常捕获->演示作业异常处理
+System.DivideByZeroException: 尝试除以零。
+   在 ConsoleApp.Beta.VipManager.ExceptionJob.Execute(IJobExecutionContext context) 位置 D:\Coding\DotNet\Beta.Jobs\ConsoleApp\Beta.VipManager\ExceptionJob.cs:行号 40
+
+异常时间：2020-10-10 11:10:32,249 [10] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 结束执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:10:32,284 [6] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ArticleAdsSubOrgsJob 结束执行Job->管理驾驶舱文章广告，部门可见范围同步所选部门的所有子部门入库
+
+异常时间：2020-10-10 11:10:37,247 [6] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ArticleAdsSubOrgsJob 开始执行Job->管理驾驶舱文章广告，部门可见范围同步所选部门的所有子部门入库
+
+异常时间：2020-10-10 11:10:37,249 [10] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 开始执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:10:37,249 [10] 
+异常级别：ERROR 
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob Job异常捕获->演示作业异常处理
+System.DivideByZeroException: 尝试除以零。
+   在 ConsoleApp.Beta.VipManager.ExceptionJob.Execute(IJobExecutionContext context) 位置 D:\Coding\DotNet\Beta.Jobs\ConsoleApp\Beta.VipManager\ExceptionJob.cs:行号 40
+
+异常时间：2020-10-10 11:10:37,249 [10] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 结束执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:10:42,249 [10] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 开始执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:10:42,249 [10] 
+异常级别：ERROR 
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob Job异常捕获->演示作业异常处理
+System.DivideByZeroException: 尝试除以零。
+   在 ConsoleApp.Beta.VipManager.ExceptionJob.Execute(IJobExecutionContext context) 位置 D:\Coding\DotNet\Beta.Jobs\ConsoleApp\Beta.VipManager\ExceptionJob.cs:行号 40
+
+异常时间：2020-10-10 11:10:42,250 [10] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 结束执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:10:47,249 [10] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 开始执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:10:47,249 [10] 
+异常级别：ERROR 
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob Job异常捕获->演示作业异常处理
+System.DivideByZeroException: 尝试除以零。
+   在 ConsoleApp.Beta.VipManager.ExceptionJob.Execute(IJobExecutionContext context) 位置 D:\Coding\DotNet\Beta.Jobs\ConsoleApp\Beta.VipManager\ExceptionJob.cs:行号 40
+
+异常时间：2020-10-10 11:10:47,249 [10] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 结束执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:10:52,249 [10] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 开始执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:10:52,249 [10] 
+异常级别：ERROR 
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob Job异常捕获->演示作业异常处理
+System.DivideByZeroException: 尝试除以零。
+   在 ConsoleApp.Beta.VipManager.ExceptionJob.Execute(IJobExecutionContext context) 位置 D:\Coding\DotNet\Beta.Jobs\ConsoleApp\Beta.VipManager\ExceptionJob.cs:行号 40
+
+异常时间：2020-10-10 11:10:52,249 [10] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 结束执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:10:57,249 [10] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 开始执行Job->演示作业异常处理
+
+异常时间：2020-10-10 11:10:57,249 [10] 
+异常级别：ERROR 
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob Job异常捕获->演示作业异常处理
+System.DivideByZeroException: 尝试除以零。
+   在 ConsoleApp.Beta.VipManager.ExceptionJob.Execute(IJobExecutionContext context) 位置 D:\Coding\DotNet\Beta.Jobs\ConsoleApp\Beta.VipManager\ExceptionJob.cs:行号 40
+
+异常时间：2020-10-10 11:10:57,249 [10] 
+异常级别：INFO  
+异 常 类：Service - ConsoleApp.Beta.VipManager.ExceptionJob 结束执行Job->演示作业异常处理

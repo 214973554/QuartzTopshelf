@@ -1,0 +1,6 @@
+D:\Coding\DotNet\Beta.Jobs\Entity\bin\Debug\Entity.dll
+D:\Coding\DotNet\Beta.Jobs\Entity\bin\Debug\Entity.pdb
+D:\Coding\DotNet\Beta.Jobs\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\Coding\DotNet\Beta.Jobs\Entity\obj\Debug\Entity.dll
+D:\Coding\DotNet\Beta.Jobs\Entity\obj\Debug\Entity.pdb
+D:\Coding\DotNet\Beta.Jobs\Entity\obj\Debug\Entity.csprojAssemblyReference.cache

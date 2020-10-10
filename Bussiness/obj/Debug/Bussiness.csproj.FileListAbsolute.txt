@@ -1,0 +1,5 @@
+D:\Coding\DotNet\Beta.Jobs\Bussiness\bin\Debug\Bussiness.dll
+D:\Coding\DotNet\Beta.Jobs\Bussiness\bin\Debug\Bussiness.pdb
+D:\Coding\DotNet\Beta.Jobs\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+D:\Coding\DotNet\Beta.Jobs\Bussiness\obj\Debug\Bussiness.dll
+D:\Coding\DotNet\Beta.Jobs\Bussiness\obj\Debug\Bussiness.pdb
